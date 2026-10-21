@@ -4,7 +4,11 @@ Module: Nature Of Enterprise Computing
 Student Names and ID's:
 ID - A00070362 - Naafiu Badmus Ojora
 ID - A00067292 - Abdikhalic abubakar
+<<<<<<< HEAD
 
+=======
+ID - A00076119 - Cillian Doyle
+>>>>>>> 36eb1361f929c8c6206600853e47707580772e6e
 First piewpoint : SOCIETAL
 Second viewpoint: SCIENTIFIC
 Due date: 27 November 2026
