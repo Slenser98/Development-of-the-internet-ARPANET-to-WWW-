@@ -8,11 +8,13 @@ During the past decade, a fair amount of research on digital divide surfaced. Ma
 
 With other studies suggesting ways to which digital divide could be understood if it were "reconceptualised" in terms of other metaphors, e.g. a "divide" having something to do with other things such as literacy(Warschauer, 2002), power (Moss, 2002), content (Garvin, 2000), or the information environment (Floridi, 2001).
 
-Authors tented not to question (at least not directly) whether the digital divide is at large is an ethical issue. Many others believe that because of involving access to computing technology exist, issues surrounding the digital divide are needed moral in nature. Many also further assume that this divide has to do with something that is digital and technological in principle, it's better viewed as a computer ethical issue
+Authors tented not to question (not directly at least) whether the digital divide is at large is an ethical issue. Many others believe that because of involving access to computing technology exist, issues surrounding the digital divide are needed moral in nature. Many also further assume that this divide has to do with something that is digital and technological in principle, it's better viewed as a computer ethical issue.
 
 Internet privatisation and profit-making:
 
-The internet can't achieve its full capabilities due it being privatised and monopolised, Especially when we think about its current applications like communications, easy information access, and vast new experiences. But to monopolisation, the internet gained a big issue of power being one sided and ...
+The internet can't achieve its full capabilities due it being privatised and monopolised, Especially when we think about its current applications like communications, easy information access, and vast new experiences. But to monopolisation, the internet gained a big issue of power being one sided power. For example, Google has about 90% of the global search market, and Meta dominates in social networking and advertisement. Ethically this shouldn't be a sided power where the big companies have the majority of monopoly over internet related matters. This vast amount of ownership by select major companies also leads to a mass amount of user data collection which is a threat the user privacy in exchange of little transparency and oversight. 
+
+
 
 Reference:
 
