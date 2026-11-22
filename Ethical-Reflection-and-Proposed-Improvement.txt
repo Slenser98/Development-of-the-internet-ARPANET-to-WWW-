@@ -2,7 +2,7 @@ Ethical Reflection
 
 Digital divide:
 
-Digital divide stems from a systemic unfairness from some people not letting certain types of people (e.g. those from low-income household, senior citizens, the undereducated, etc.), not get the same access to the technology and computing privileges. 
+Digital divide stems from a systemic unfairness from some people not letting certain types of people (e.g. those from low-income household, senior citizens, the undereducated, etc.), not get the same access to the technology and computing privileges as those who are well off. For example, when affordable connectivity lost its funding in 2024, about 13% of its users cancelled their internet straight away.
 
 During the past decade, a fair amount of research on digital divide surfaced. Many reports and studies providing statistical dada (Digital Divide Network, 2002, NTIA, 1995, 1998, 1999, 2000).
 
@@ -12,14 +12,14 @@ Authors tented not to question (not directly at least) whether the digital divid
 
 Internet privatisation and profit-making:
 
-The internet can't achieve its full capabilities due it being privatised and monopolised, Especially when we think about its current applications like communications, easy information access, and vast new experiences. But to monopolisation, the internet gained a big issue of power being one sided power. For example, Google has about 90% of the global search market, and Meta dominates in social networking and advertisement. Ethically this shouldn't be a sided power where the big companies have the majority of monopoly over internet related matters. This vast amount of ownership by select major companies also leads to a mass amount of user data collection which is a threat the user privacy in exchange of little transparency and oversight. 
+The internet can't achieve its full capabilities due it being privatised and monopolised, Especially when we think about its current applications like communications, easy information access, and vast new experiences. But through monopolisation, the internet gained a big issue of power being one sided. For example, Google has approximately 90% of the global search market, Meta dominates in social networking and advertisement, and Microsoft in office and work force environments and education. Ethically this shouldn't be a sided power where the big companies have the majority of monopoly over internet related matters. This vast amount of ownership by select major companies also leads to a mass amount of user data collection which is a threat the user privacy in exchange of little transparency and oversight. Along with relying on select few companies can cause damages to businesses and education if they were to ever experience any cyber issue. For example when Microsoft Applications such as Outlook went down for a day, many business have experienced helplessness.
 
 
 Proposed Improvement:
 
 The solution to digital divide depends mostly on the relationship between the supplier and the consumer. The first and easiest solution obviously being availability, but it such solution fails to predict the outcome of providing it to more people due it nature of giving more access to users that can easily be influenced. This comes with more responsibilities coming into consideration for example younger users on the internet, since almost 100% of teen use the internet daily. But other than availability, other aspects such as affordability and acceptability can provide vast growth for the internet and what it's capable of. Affordability will let those who lack the funds to host a domain to get their ideas out in the world for more people who are just like them to give example to. Acceptability can reduce the censorships for necessary information the people need to know. Availability will let those who didn't have access before gain or look for the things they, For example the elderly who want healthcare or education.
 
-Just like the aforementioned improvement for digital divide. Preventing privatising of the internet can give mass access to larger population of the people who want to get their information, ideas  out in the open without having the need to pay a fee to multi billion dollar company that had little contribution to your work.
+Just like the aforementioned improvement for digital divide. Preventing privatising of the internet can give mass access to larger population of the people who want to get their information, ideas  out in the open without having the need to pay a fee to multi billion dollar company that had little contribution to your work. Acts like the EU's digital market Act already give more access to smaller rivals more access.
 
 Reference:
 
