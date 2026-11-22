@@ -15,9 +15,22 @@ Internet privatisation and profit-making:
 The internet can't achieve its full capabilities due it being privatised and monopolised, Especially when we think about its current applications like communications, easy information access, and vast new experiences. But to monopolisation, the internet gained a big issue of power being one sided power. For example, Google has about 90% of the global search market, and Meta dominates in social networking and advertisement. Ethically this shouldn't be a sided power where the big companies have the majority of monopoly over internet related matters. This vast amount of ownership by select major companies also leads to a mass amount of user data collection which is a threat the user privacy in exchange of little transparency and oversight. 
 
 
+Proposed Improvement:
+
+The solution to digital divide depends mostly on the relationship between the supplier and the consumer. The first and easiest solution obviously being availability, but it such solution fails to predict the outcome of providing it to more people due it nature of giving more access to users that can easily be influenced. This comes with more responsibilities coming into consideration for example younger users on the internet, since almost 100% of teen use the internet daily. But other than availability, other aspects such as affordability and acceptability can provide vast growth for the internet and what it's capable of. Affordability will let those who lack the funds to host a domain to get their ideas out in the world for more people who are just like them to give example to. Acceptability can reduce the censorships for necessary information the people need to know. Availability will let those who didn't have access before gain or look for the things they, For example the elderly who want healthcare or education.
+
+Just like the aforementioned improvement for digital divide. Preventing privatising of the internet can give mass access to larger population of the people who want to get their information, ideas  out in the open without having the need to pay a fee to multi billion dollar company that had little contribution to your work.
 
 Reference:
 
 Tavani, H. T. (2003). Ethical reflections on the digital divide. Journal of Information, Communication and Ethics in Society, 1(2), 99–108. https://doi.org/10.1108/14779960380000230
 
 Bourgeois, D.T. (2020) ‘11.3: Digital Divide’, in Information Systems for Business. Engineering LibreTexts. Available at: https://eng.libretexts.org/Sandboxes/pbmac/Information_Systems_for_Business/11%3A_Globalization_and_the_Digital_Divide/11.03%3A_Digital_Divide (Accessed: 12 November 2026).
+
+Dataprovider.com (2025) The overlooked monopolies of the internet: who really owns the web? Available at: https://www.dataprovider.com/blog/tech/who-owns-the-web/ (Accessed: 21 November 2026).
+
+GovFacts (2025) Who controls the internet? Available at: https://govfacts.org/tech-innovation/internet-governance/who-controls-the-internet/ (Accessed: 21 November 2026)(AI written article. take it as background information).
+
+Statista (2026) Global market share of leading search engines 2015-2025. Available at: https://www.statista.com/statistics/1381664/worldwide-all-devices-market-share-of-search-engines/ (Accessed: 21 November 2026).
+
+Hollimon, L.A., Taylor, K.V. et al. (2025) 'Redefining and solving the digital divide and exclusion to improve healthcare: going beyond access to include availability, adequacy, acceptability, and affordability', Frontiers in Digital Health, 7, article 1508686. doi:10.3389/fdgth.2025.1508686. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC12052546/ (Accessed: 21 November 2026).
