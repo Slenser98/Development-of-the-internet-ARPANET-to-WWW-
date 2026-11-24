@@ -1,1 +1,7 @@
-This is my second view analysis section.
+second view point analysis - Scientific
+
+
+The development of the internet can be viewed from a scientific perspective, as it was created through years of research, experiments and technological improvements. Rather than being developed all at once, the internet started as a research project which aimed to solve problems surrounding communication between computers. Leiner et al. (1997) explains how the early development of the internet involved different researchers and organisations working together to create a network that could connect computers over long distances. this shows how scientific research played an important role in shaping the internet into what we use today.
+
+One of the most important scientific developments behind the internet was packet switching. This is where information gets divided into smaller packets before being sent across a network. According to Leiner et al.(1997), Leonard helped create the foundations for this technology. later on, This research contributed to the development of ARPANET, which was created to connect computers between different research institutions. Early experiments by Lawrence Robert and Thomas Merrill in 1965 also showed that traditional telephone networks were not suitable for computer communication. This shows how scientific research helped solve problems with communication between computers and made it easier to connect them over long distances.
+
