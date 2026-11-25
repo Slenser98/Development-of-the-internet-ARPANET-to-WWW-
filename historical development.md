@@ -14,11 +14,14 @@ Key milestones:
 
 \# 2004 \- present day: with the introduction of smartphones\, social platforms and cloud computing made the in grow into a real time\, mobile first ecosystem\.
 
+Beyond hardware and protocol upgrades, the cultural and economic model of the internet went through a fundamental shift during the mid 2000s with the rise of web 2.0. Rather than serving a static repository made of read only pages contain acedmic writings, the web evolved to an interactive user driven platform comprised of social media, cloud applications,
+and mobile connectivity. With the adoption of smartphones following 2007, this transition transformed internet access from being a stationary desktop experience into a portable easily accessed necessity of everyday life.
+
 Over five decades, the internet has transitioned from a text based academic backbone into a high speed fiber optic and 5G utility. Thanks to innovations such as domain names and graphical interfaces it brought the removal of daunting technical barriers. And competitive internet service providers lowered costs. In present day the internet supports critical global infrastructure and Aervices, with ongoing development in IPv6 low earth orbit satellite connectivity forging its future.
 
 * CERN. (n.d.). *The birth of the Web*. [https://home.cern/science/computing/the-birth-of-the-web/](https://home.cern/science/computing/the-birth-of-the-web/)
 * Leiner, B. M., et al. (1997). *Brief History of the Internet*. Internet Society. [https://www.internetsociety.org/internet/history-internet/brief-history-internet/](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)
-* Science Museum. (2020). *From ARPANET to the internet*. [https://www.sciencemuseum.org.uk/objects-and-stories/arpanet-internet](https://www.sciencemuseum.org.uk/objects-and-stories/arpanet-internet)
+* Science Museum. (2020). *From ARPANET to the internet*. [https://www.sciencemuseum.org.uk/objects-and-stories/arpanet-internet](https://www.sciencemuseum.org.uk/objects-and-stories/arpanet-internet)f
 
 
 
