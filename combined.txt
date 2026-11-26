@@ -1,0 +1,103 @@
+-- Naff: Introduction --
+
+The Internet is a global network of interconnected networks that exchange data using shared communication standards. It started as ARPANET, a research network that was funded by the US Advanced Research Projects Agency. 
+Its first message was sent between UCLA and the sStanford Research Institute in October 1969.
+The World Wide Web is a seperate layer built on to p of the internet. 
+It was proposed by Tim-Bearners-Lee proprsed at CERN in 1989, combining hypertext, URLs and HTTP so that linked so linked documents could be accessed from any computer anywhere and on any computer.
+There is always complications in differentiating betwwen the Internet and the Web, the difference is that the Internet is the infastructurue and the the Web is the application running it.
+
+In the 1960s, cpomputers were scarce, expensive and incompatible.
+Researchers that were funded by ARPA each needed access tomachines and software at other branches or institutions, and the only option was duplicating costly hardware or travelling to another place to access info.
+The main design idea of ARPANET was to enable resource sharing across distant computers. 
+Its tecnical idea was Packet Switching, which is a networking method that breaks data into small units called packets, routes each packet independently across shared network paths, and reassembles them at the destination.
+A very important misinformation that needs to be cleared was that the ARPANET was uilt to survive Nuclear attack, but that was the motivation for Baran's(developed Packet Switching) earler work, not the actual purpose of ARPANET itself.
+As time went by, more networks appeared, and a second problem emerged.
+
+Each one, whether s university, radio or satellite network, followed 
+
+
+-- Cillian: Historical development --
+
+The internet has vastly changed from its original intent during cold war as a defense network but now has become the foundation of modern society, connecting billions of devices across commerce, education and especially daily communication. Its history is fascinating coming from early packet switching to a modern ai intergrated web shows the extrodinary milestones that would create today global network
+
+Early development before the 1960s, computing relied on mainframes, and telecommunications relied on centralized telephone lines being circuit switched, this was horribly inefficient for computer data while being very vulnerable to single point failures. To combat this Paul Baran at the RAND corperation and Donald Davies at the uk's national physics laboratory had developed the concept of packet switching which means breaking down data into small block and routing that data into independently across shared lines. Lead by J.C.R Licklider's vision of interconnected computers in a network. The u.s. advanced research projects agency had launched arpanet in 1969, connecting four universities with the specific goal of reliably sharing research.
+
+Key milestones:
+
+#1969) arpnet launch: created by Bolt Beranek and Newman with the theoretical foundations by leonard klienrock. This would prove the practicality of packet switching
+
+#1974 - 1983) TCP/IP: vint cerf and bob kahn codesigned the transmission conntrol protocol and internet protocol. Enabling separate networks to merge as a single network.
+
+#1989 - 1991 the world web: At cern, tim berners lee invented HTTP, HTML, and URLs releasing them freely with no royalties attached, tansforming the raw internet infrastructure into a navigable hypertext system
+
+# 2004 - present day: with the introduction of smartphones, social platforms and cloud computing made the in grow into a real time, mobile first ecosystem.
+
+Beyond hardware and protocol upgrades, the cultural and economic model of the internet went through a fundamental shift during the mid 2000s with the rise of web 2.0. Rather than serving a static repository made of read only pages contain acedmic writings, the web evolved to an interactive user driven platform comprised of social media, cloud applications, and mobile connectivity. With the adoption of smartphones following 2007, this transition transformed internet access from being a stationary desktop experience into a portable easily accessed necessity of everyday life.
+
+Over five decades, the internet has transitioned from a text based academic backbone into a high speed fiber optic and 5G utility. Thanks to innovations such as domain names and graphical interfaces it brought the removal of daunting technical barriers. And competitive internet service providers lowered costs. In present day the internet supports critical global infrastructure and Aervices, with ongoing development in IPv6 low earth orbit satellite connectivity forging its future.
+
+
+-- Mariangela: First point of view --
+
+(Paste work here)
+
+
+-- Abdikhalic: Second point of view --
+
+Scientific
+
+
+The scientific development of the Internet is about how researchers solved the problem of getting computers to share data, first with packet switching and the ARPANET, then with TCP (Transmission control protocol)/IP(Internet protocol), and the World Wide Web. packet switching is where data is broken into small packets that can be sent separately, and this was tested in the ARPANET, which connected its first four computers in 1969. After this, Robert Kahn started working on TCP/IP in 1972, which is a set of rules that let separate networks communicate with each other and this is what allowed the ARPANET to grow into a network of networks. The World Wide Web came later as one of the applications built on this foundation , which was possible because TCP/IP was designed as a general infrastructure and not for one specific purpose (Leiner et al., 1997).
+
+The idea of packet switching was confirmed necessary in 1965, when Lawrence Roberts connected two computers on opposite sides of the US and found that the phone system was not good enough for the job. And at the same time researchers at MIT, RAND and the UK national Physical Laboratory were developing the same idea without knowing about each other. Roberts published his plan for the ARPANET in 1967 and the company Bolt Beranek and Newman(BBN) was chosen to build the packet switches called Interface Message Processors, that would connect the computers to the network. The first of these switches was installed at UCLA in September 1969 and a month later the first message between two computers on the network was sent from UCLA to the Stanford Research Institute. By the end of 1970 the first set of rules for the computers on the network to communicate, called the Network Control Protocol(NCP), was finished and once sites had installed it in 1971 and 1972, people could start building applications like email (Leiner et al., 1997). 
+
+The ARPANET's first protocol, NCP, relied on the network never losing data and could not reach other networks, which is why Kahn needed a new design. In 1973, Kahn asked Vint Cerf, who had worked on the ARPANET's first protocol, to help with the detailed design of TCP/IP. The original TCP was reorganised into two protocols after early work on packet voice showed that, for some applications, it was better to leave lost packets to the application than to correct them. IP was left to handle the addressing and forwarding of packets, while TCP made sure data arrived reliably. By 1990 when the ARPANET was shut down, TCP/IP had replaced or sidelined most other wide-area network protocols around the world (Leiner et al., 1997). 
+
+Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN, because scientists around the world needed an easier way to share information with each other. By the end of 1990 he had the first web server and browser running and in 1991 he released the software and announced it on internet newsgroups, which spread interest in it around the world. In 1993 the Mosaic browser made the web much easier to use and CERN made the web's source code free for anyone to use, which helped it spread quickly (CERN, n.d.).
+
+The scientific viewpoint is about how the Internet was built, while the societal viewpoint explains why it spread, since email, which was only meant to help developers to co-ordinate ended up being what most people used it for. Overall, the internet came from scientific research but it only became what it is today because people found uses for it that the researchers had not planned for (Leiner et al., 1997).
+
+
+-- Abdiadim: Ethical reflection and proposed improvement --
+
+Digital divide:
+
+Digital divide stems from a systemic unfairness from some people not letting certain types of people (e.g. those from low-income household, senior citizens, the undereducated, etc.), not get the same access to the technology and computing privileges as those who are well off. For example, when affordable connectivity lost its funding in 2024, about 13% of its users cancelled their internet straight away.
+
+Tavani (2003) states that a lot of research on digital divide has surfaced. Many reports and studies providing statistical date (Digital Divide Network, 2002, NTIA, 1995, 1998, 1999, 2000. Cited in Tavani, 2003). With studies suggesting ways to which digital divide could be understood if it were "reconceptualised" in terms of other metaphors, e.g. a "divide" having something to do with other things such as literacy (Warschauer, 2002. Cited in Tavani, 2003), power (Moss, 2002. Cited in Tavani 2003), content (Garvin, 2000. Cited in Tavani 2003), or the information environment (Floridi, 2001. Cited in Tavani, 2003). Tavani also outlines that many authors tented not to question (not directly at least) whether the digital divide at large is an ethical issue. Many others believe that because of involving access to computing technology exist, issues surrounding the digital divide are needed moral in nature. Many also further assume that this divide has to do with something that is digital and technological in principle, it's better viewed as a computer ethical issue.
+
+Internet privatisation and profit-making:
+
+The internet can't achieve its full capabilities due it being privatised and monopolised, Especially when we think about its current applications like communications, easy information access, and vast new experiences. But through monopolisation, the internet gained a big issue of power being one sided. For example, Google has approximately 90% of the global search market, Meta dominates in social networking and advertisement, and Microsoft in office and work force environments and education. Ethically this shouldn't be a sided power where the big companies have the majority of monopoly over internet related matters. This vast amount of ownership by select major companies also leads to a mass amount of user data collection which is a threat the user privacy in exchange of little transparency and oversight. Along with relying on select few companies can cause damages to businesses and education if they were to ever experience any cyber issue. For example when Microsoft Applications such as Outlook went down for a day, many business have experienced helplessness.
+
+
+Proposed Improvement:
+
+The solution to digital divide depends mostly on the relationship between the supplier and the consumer. The first and easiest solution obviously being availability, but it such solution fails to predict the outcome of providing it to more people due it nature of giving more access to users that can easily be influenced. This comes with more responsibilities coming into consideration for example younger users on the internet, since almost 100% of teen use the internet daily. But other than availability, other aspects such as affordability and acceptability can provide vast growth for the internet and what it's capable of. Affordability will let those who lack the funds to host a domain to get their ideas out in the world for more people who are just like them to give example to. Acceptability can reduce the censorships for necessary information the people need to know. Availability will let those who didn't have access before gain or look for the things they, For example the elderly who want healthcare or education.
+
+Just like the aforementioned improvement for digital divide. Preventing privatising of the internet can give mass access to larger population of the people who want to get their information, ideas  out in the open without having the need to pay a fee to multi billion dollar company that had little contribution to your work. Acts like the EU's digital market Act already give more access to smaller rivals more access.
+
+
+References:
+
+CERN. (n.d.). The birth of the Web. https://home.cern/science/computing/the-birth-of-the-web/
+
+Leiner, B. M., et al. (1997). Brief History of the Internet. Internet Society. https://www.internetsociety.org/internet/history-internet/brief-history-internet/
+
+Science Museum. (2020). From ARPANET to the internet. https://www.sciencemuseum.org.uk/objects-and-stories/arpanet-internetf
+
+CERN (n.d.) A short history of the Web. Available at: https://home.cern/science/computing/the-birth-of-the-web/short-history-web/ (Accessed: 17 November 2026).
+
+Leiner, B.M., Cerf, V.G., Clark, D.D., Kahn, R.E., Kleinrock, L., Lynch, D.C., Postel, J., Roberts, L.G. and Wolff, S. (1997) A brief history of the Internet. Internet Society. Available at: https://www.internetsociety.org/internet/history-internet/brief-history-internet/ (Accessed: 15 November 2026).
+
+Tavani, H. T. (2003). Ethical reflections on the digital divide. Journal of Information, Communication and Ethics in Society, 1(2), 99–108. https://doi.org/10.1108/14779960380000230
+
+Bourgeois, D.T. (2020) ‘11.3: Digital Divide’, in Information Systems for Business. Engineering LibreTexts. Available at: https://eng.libretexts.org/Sandboxes/pbmac/Information_Systems_for_Business/11%3A_Globalization_and_the_Digital_Divide/11.03%3A_Digital_Divide (Accessed: 12 November 2026).
+
+Dataprovider.com (2025) The overlooked monopolies of the internet: who really owns the web? Available at: https://www.dataprovider.com/blog/tech/who-owns-the-web/ (Accessed: 21 November 2026).
+
+GovFacts (2025) Who controls the internet? Available at: https://govfacts.org/tech-innovation/internet-governance/who-controls-the-internet/ (Accessed: 21 November 2026)(AI written article. take it as background information).
+
+Statista (2026) Global market share of leading search engines 2015-2025. Available at: https://www.statista.com/statistics/1381664/worldwide-all-devices-market-share-of-search-engines/ (Accessed: 21 November 2026).
+
+Hollimon, L.A., Taylor, K.V. et al. (2025) 'Redefining and solving the digital divide and exclusion to improve healthcare: going beyond access to include availability, adequacy, acceptability, and affordability', Frontiers in Digital Health, 7, article 1508686. doi:10.3389/fdgth.2025.1508686. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC12052546/ (Accessed: 21 November 2026).
